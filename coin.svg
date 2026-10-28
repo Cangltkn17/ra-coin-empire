@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <radialGradient id="gold" cx="30%" cy="20%" r="85%">
+      <stop offset="0%" stop-color="#fff3ad"/>
+      <stop offset="45%" stop-color="#ffc743"/>
+      <stop offset="80%" stop-color="#d88713"/>
+      <stop offset="100%" stop-color="#854000"/>
+    </radialGradient>
+  </defs>
+  <circle cx="150" cy="150" r="142" fill="#713a00"/>
+  <circle cx="150" cy="150" r="135" fill="url(#gold)" stroke="#ffe58c" stroke-width="5"/>
+  <circle cx="150" cy="150" r="116" fill="none" stroke="#925009" stroke-width="4"/>
+  <circle cx="150" cy="150" r="107" fill="none" stroke="#fff0a0" stroke-width="2"/>
+  <g fill="none" stroke="#633000" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 127 Q150 70 240 127"/>
+    <path d="M60 143 Q150 195 240 143"/>
+    <path d="M91 137 Q150 101 209 137 Q150 172 91 137Z" fill="#ffe4a0"/>
+    <path d="M173 166 Q164 206 120 229 Q103 239 94 220 Q90 205 106 202"/>
+    <path d="M209 146 L243 187"/>
+  </g>
+  <circle cx="150" cy="137" r="22" fill="#633000"/>
+  <circle cx="143" cy="129" r="6" fill="#ffe8a2"/>
+</svg>
